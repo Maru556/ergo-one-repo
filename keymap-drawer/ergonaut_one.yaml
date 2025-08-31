@@ -130,7 +130,7 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
   FUN:
-  - Boot
+  - BT CLR ALL
   - Caps Lock
   - {t: LEFT SHIFT, h: sticky}
   - '&undo'
@@ -141,8 +141,8 @@ layers:
   - F2
   - F3
   - F4
-  - Boot
-  - ''
+  - BT CLR ALL
+  - BT NXT
   - '&copy'
   - '&paste'
   - '&select'
@@ -153,19 +153,19 @@ layers:
   - F6
   - F7
   - F8
-  - ''
-  - Reset
+  - BT NXT
+  - Boot
   - '&lcopy'
   - '&lpaste'
   - Caps Word
   - ''
-  - Boot
+  - Reset
   - ''
   - F9
   - F10
   - F11
   - F12
-  - ''
+  - Boot
   - ''
   - ''
   - ''
